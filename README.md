@@ -9,7 +9,9 @@ This project is designed to showcase my ability to:
 - Develop a website using HTML: Demonstrating fundamental HTML structure and elements.
 - Utilize Git for version control: Managing the project with regular commits that reflect best practices in commit messaging.
 - Leverage GitHub for remote storage: Using GitHub not just as a backup solution but also as a platform for version control and collaboration.
+
 Objectives
+
 - Create a clean and simple HTML website.
 - Practice effective version control techniques.
 - Write clear and descriptive commit messages.
